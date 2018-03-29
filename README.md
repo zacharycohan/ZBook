@@ -11,6 +11,6 @@ login credantials that can be used are as follows
 Username: admin
 Password: password
 
-from here, you can look at some of the fetures of the program.
+from here, you can look at some of the features of the program.
 
 any questions can be emailed to me at zachary.j.cohan@gmail.com and I will get to them when I can. Thank you
